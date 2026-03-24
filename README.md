@@ -11,7 +11,7 @@ Passive HTTP-based fingerprinting tool for identifying visible web technologies 
 - Redirect chain summary
 - Response time measurement
 
-## Installation
+## Installatio
 ```bash
 git clone https://github.com/k4yraa/web-fingerprinting-tool.git
 cd web-fingerprinting-tool
